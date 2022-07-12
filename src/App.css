@@ -68,6 +68,8 @@
 .customBorder {
   border: solid 5px var(--lightColour);
   border-radius: 25px;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .customBorderR {
@@ -78,4 +80,11 @@
 .customBorderL {
   border: solid 5px var(--lightColour);
   border-radius: 20px 0px 0px 20px;
+}
+
+.photoImage {
+  border-radius: 20px;
+  height: 200px;
+  width: 200px;
+  object-fit: contain;
 }

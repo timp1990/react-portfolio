@@ -16,12 +16,11 @@ export default function About() {
             Most recently I have enrolled in the USYD-Trilogy Coding Bootcamp, to learn the basics of
             web development.
             For further information, please refer to my CV, which can be accessed
-
-            <a href="./assets/TimPolo CV.pdf"><u>here.</u></a>
+            <a href="./assets/TimPolo CV.pdf"><u> here.</u></a>
           </p>
         </div>
-        <div className="col-3 p-2">
-          <img className="w-100" src={require('./IPWEA Photo.png')} alt="A headshot of Tim Polo" />
+        <div className="col-sm-3 p-2">
+          <img className="w-100 customBorder" src={require('./IPWEA Photo.png')} alt="A headshot of Tim Polo" />
         </div>
       </div>
     </div>
