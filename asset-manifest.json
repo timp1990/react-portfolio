@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.36e1c128.css",
+    "main.js": "/react-portfolio/static/js/main.e649456b.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/TimPolo CV.pdf": "/react-portfolio/static/media/TimPolo CV.4197370f34d95d8163ac.pdf",
+    "static/media/lanesBridge.jpg": "/react-portfolio/static/media/lanesBridge.0e0aa151b2c8f04939c3.jpg",
+    "static/media/3b Nyora Close Photo.JPG": "/react-portfolio/static/media/3b Nyora Close Photo.1fb72fcea5e9ab99410c.JPG",
+    "static/media/IPWEA Photo.png": "/react-portfolio/static/media/IPWEA Photo.cb0454e8592fe0297c80.png",
+    "static/media/WeatherDashboard.JPG": "/react-portfolio/static/media/WeatherDashboard.b16a2e17d84824bd1375.JPG",
+    "static/media/projecthub.JPG": "/react-portfolio/static/media/projecthub.bf92e30d5b12ba3f7b35.JPG",
+    "static/media/WorkdayScheduler.JPG": "/react-portfolio/static/media/WorkdayScheduler.687e9e78657aa73a4fab.JPG",
+    "static/media/Fischers Aerial.JPG": "/react-portfolio/static/media/Fischers Aerial.763e780adfcae5f99f76.JPG",
+    "static/media/techblog.JPG": "/react-portfolio/static/media/techblog.3af45918514ac65b3766.JPG",
+    "static/media/teamprofile.JPG": "/react-portfolio/static/media/teamprofile.bc8576c00e386c1bb08f.JPG",
+    "index.html": "/react-portfolio/index.html",
+    "main.36e1c128.css.map": "/react-portfolio/static/css/main.36e1c128.css.map",
+    "main.e649456b.js.map": "/react-portfolio/static/js/main.e649456b.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36e1c128.css",
+    "static/js/main.e649456b.js"
+  ]
+}
